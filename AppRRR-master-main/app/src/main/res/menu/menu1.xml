@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/op1"
+        android:title="@string/reciclaje" >
+        <menu>
+            <item
+                android:id="@+id/op4"
+                android:title="@string/plastico" />
+            <item
+                android:id="@+id/op5"
+                android:title="@string/papelycarton" />
+            <item
+                android:id="@+id/op6"
+                android:title="@string/vidrio" />
+            <item
+                android:id="@+id/op7"
+                android:title="@string/latas" />
+            <item
+                android:id="@+id/op8"
+                android:title="@string/otrosresiduos" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/op2"
+        android:title="@string/reutilizacion" />
+    <item
+        android:id="@+id/op3"
+        android:title="@string/comunidad" ></item>
+</menu>

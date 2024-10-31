@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">AppRRR</string>
+    <string name="correo">Correo</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="usuario">Usuario</string>
+    <string name="contraseña2">Reingrese Contraseña</string>
+    <string name="btnIngresar">Ingresar</string>
+    <string name="btnRegistrar">Registrar</string>
+    <string name="registrate"> ¿No te has creado una cuenta ? Reguistrate</string>
+    <string name="reciclaje">Reciclaje</string>
+    <string name="reutilizacion">Reutilizacion</string>
+    <string name="comunidad">Comunidad</string>
+    <string name="plastico">Plastico</string>
+    <string name="papelycarton">Papel y carton</string>
+    <string name="vidrio">Vidrio</string>
+    <string name="latas">Latas</string>
+    <string name="descripcion_imagen_view8">Descripción de la imagen 8</string>
+    <string name="texto_plastico">El plástico tarda muchos años en degradarse, por lo que es importante reducir su impacto limitando su consumo, reutilizando los envases siempre que se pueda y reciclándolos cuando ya no nos sean útiles.</string>
+    <string name="descripcion_imagen9">Descripción de la imagen en el contenedor principal</string>
+    <string name="descripcion_imagen10">Descripción de la imagen 10</string>
+    <string name="descripcion_imagen8">Descripción de la imagen 8</string>
+    <string name="descripcion_plastico">Descripción del plastico</string>
+    <string name="descripcion_imagen11">Descripción de la imagen 11</string>
+
+    <string name="otrosresiduos">Otros residuos</string>
+    <string name="btningresarimg">Ingresar imagen</string>
+    <string name="btneliminarimg">Eliminar imagen</string>
+    <string name="btningresarcomentario">Ingresar cometario</string>
+    <string name="btneliminarcomentario">Eliminar cometario</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="abrir_drawer">Drawer Abierto</string>
+    <string name="cerrar_drawer">Drawer Cerrado</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
