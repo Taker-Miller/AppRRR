@@ -5,6 +5,9 @@
     <string name="usuario">Usuario</string>
     <string name="contraseña2">Reingrese Contraseña</string>
     <string name="btnIngresar">Ingresar</string>
+    <string name="texto_vidrio">El vidrio es un material completamente reciclable que puede ser reutilizado indefinidamente. Este proceso ayuda a ahorrar energía y reducir residuos. Para reciclarlo, debemos separar el vidrio de otros materiales y colocarlo en el contenedor verde.</string>
+
+    <string name="texto_papelycarton">El papel y el cartón deben ser depositados en el contenedor azul. Reciclar estos materiales ayuda a reducir la tala de árboles y el consumo de agua, conservando recursos naturales y disminuyendo el impacto ambiental.</string>
     <string name="btnRegistrar">Registrar</string>
     <string name="registrate"> ¿No te has creado una cuenta ? Reguistrate</string>
     <string name="reciclaje">Reciclaje</string>
@@ -14,6 +17,8 @@
     <string name="papelycarton">Papel y carton</string>
     <string name="vidrio">Vidrio</string>
     <string name="latas">Latas</string>
+    <string name="texto_otros_residuos">Hay muchos otros productos y residuos que también pueden ser reciclados. Desde dispositivos electrónicos hasta ciertos tipos de textiles, estos materiales pueden encontrar una nueva vida a través de la recolección en puntos limpios y su procesamiento en instalaciones de reciclaje especializadas.</string>
+    <string name="texto_latas">Las latas son envases de aluminio que se encuentran comúnmente en la cocina, como las latas de refrescos o de conservas. Este material es completamente reciclable y puede ser reutilizado un número ilimitado de veces sin perder su calidad. Al reciclarlas, ayudamos a reducir el consumo de energía y la extracción de recursos naturales.</string>
     <string name="descripcion_imagen_view8">Descripción de la imagen 8</string>
     <string name="texto_plastico">El plástico tarda muchos años en degradarse, por lo que es importante reducir su impacto limitando su consumo, reutilizando los envases siempre que se pueda y reciclándolos cuando ya no nos sean útiles.</string>
     <string name="descripcion_imagen9">Descripción de la imagen en el contenedor principal</string>
